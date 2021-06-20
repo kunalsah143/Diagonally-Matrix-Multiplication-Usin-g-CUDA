@@ -1,1 +1,1 @@
-# Diagonally-Matrix-Multiplication-Usin-g-CUDA
+# Diagonally-Matrix-Multiplication-Using-CUDA
